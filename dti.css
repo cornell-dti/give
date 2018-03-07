@@ -11,6 +11,18 @@
 	color:silver;
 }
 
+.gg-branding-lead-border {
+	color: white !important;
+    background: #bf0a0c;
+    border: none !important;
+}
+
+.gg-branding-lead-border:hover {
+	color: white !important;
+    background: #222222;
+    border: none !important;
+}
+
 .sharing-links a:hover {
 	color:white;
 }
