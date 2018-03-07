@@ -4,9 +4,25 @@ body {
 
 .profile-header {
 	background: #222222;
-    color: white;
+    color: silver;
+}
+
+.gg-branding-supporting {
+	color:white;
+}
+
+.gg-branding-supporting-link {
+	color:silver;
+}
+
+.sharing-links a:hover {
+	color:white;
 }
 
 .btn {
 	background-color:#fe0937;
+}
+
+.btn:hover {
+	background-color: #bb0023;
 }
